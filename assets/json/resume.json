@@ -1,157 +1,329 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Alex El-Shaikh",
+    "label": "Postdoctoral Researcher",
+    "image": "profile.png",
+    "email": "alex@el-shaikh.com",
+    "url": "https://el-shaikh.com",
+    "orcid": "0000-0001-6276-4020",
+    "summary": "I hold a Ph.D. in Computer Science with a passion for research, particularly in the field of DNA storage. I also thoroughly enjoy teaching and mentoring students, fostering their growth and learning.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
       "city": "San Francisco",
       "countryCode": "US",
       "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    }
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "University of Marburg",
+      "position": "Research Fellow",
+      "location": "Marburg, Germany",
+      "url": "https://www.uni-marburg.de/en/staff-info?dn=h3wpzs3zdz",
+      "startDate": "2019-11-01",
+      "endDate": "2024-12-31",
+      "summary": "I worked in the Database Systems Group led by Prof. Dr. Bernhard Seeger, where my primary focus was on researching innovative random access methods for DNA storage systems. This work culminated in earning my Ph.D. in Computer Science. Additionally, I contributed to academic activities by organizing lectures, leading exercise sessions, managing exams, and mentoring students on their bachelor’s and master’s projects.",
+      "highlights": ["PhD Graduate", "Student Supervision", "Teaching Assistant"]
     }
+  ],
+  "talks": [
+    {
+      "title": "Invited Speaker at Ain Shams University",
+      "date": "2023-07-18",
+      "place": "Ain Shams University, Faculty of Computer and Information Sciences",
+      "location": "Cairo(El Weili), Egypt",
+      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "summary": "Exploring DNA storage options regarding costs and future usability.",
+      "highlights": ["Staff ERASMUS", "Scientific Exchange", "International Experience"]
+    },
+    {
+      "title": "Invited Speaker at 'Novel Data Management Ideas on Heterogeneous Hardware Architectures (NoDMC), BTW 2023'",
+      "date": "2023-03-07",
+      "place": "Technische Universität Dresden",
+      "location": "Dresden, Germany",
+      "url": "https://sites.google.com/view/btw-2023-tud/program/workshops/w4-novel-data-management-ideas-on-heterogeneous-hardware-architectures",
+      "summary": "Presenting our paper entitled 'DNAContainer: An object-based storage architecture on DNA' at BTW 2023.",
+      "highlights": ["Accepted Paper", "Scientific Collaboration"]
+    },
+    {
+      "title": "Invited Speaker at 'The 1st International Conference on Data Storage in Molecular Media'",
+      "date": "2023-03-23",
+      "place": "University of Marburg",
+      "location": "Dresden, Germany",
+      "url": "https://sites.google.com/view/btw-2023-tud/program/workshops/w4-novel-data-management-ideas-on-heterogeneous-hardware-architectures",
+      "summary": "Presenting our paper entitled 'High-Scale Random Access on DNA Storage Systems'.",
+      "highlights": ["Accepted Paper", "Scientific Collaboration"]
+    }
+  ],
+  "peerreviews": [
+    {
+      "title": "Trends in Biotechnology",
+      "date": "2023 - PRESENT",
+      "if": "16.3",
+      "review_count": 1,
+      "url": "https://www.sciencedirect.com/journal/trends-in-biotechnology"
+    },
+    {
+      "title": "Nature Communications",
+      "date": "2023 - PRESENT",
+      "if": "14.7",
+      "review_count": 4,
+      "url": "https://www.nature.com/ncomms/"
+    },
+    {
+      "title": "Briefings in Bioinformatics",
+      "date": "2023 - PRESENT",
+      "if": "6.8",
+      "review_count": 10,
+      "url": "https://academic.oup.com/bib"
+    },
+    {
+      "title": "Computational and Structtural Biotechnology Journal",
+      "date": "2023 - PRESENT",
+      "if": "4.5",
+      "review_count": 2,
+      "url": "https://www.sciencedirect.com/journal/computational-and-structural-biotechnology-journal"
+    }
+  
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Debate Club (Brüder Grimm)",
+      "location": "Marburg, Germany",
+      "position": "Recurring Guest",
+      "url": "https://debattierclub-marburg.de/",
+      "startDate": "2024-01-15",
+      "endDate": "",
+      "summary": "As a recurring guest, I enjoy conversations, discussions, and debates with the other members and leading organisators.",
+      "highlights": ["Debates", "Exploring Different Ideas", "Feedback and Criticism"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
+      "institution": "University of Marburg",
+      "location": "Marburg, Germany",
+      "url": "https://www.uni-marburg.de/en",
+      "area": "Thesis title: Implementing random access on DNA data storage systems.",
+      "studyType": "Ph.D. in Computer Science (Dr. rer. nat.)",
+      "startDate": "2019-11-01",
+      "endDate": "2024-09-13",
+      "score": "very good",
+      "courses": ["DNA Storage", "Random Access"]
+    },
+    {
+      "institution": "Aalto University",
+      "location": "Helsinki, Finland",
+      "url": "https://www.aalto.fi/en",
+      "area": "Gaining international experience and improving my English.",
+      "studyType": "ERASMUS Semester",
+      "startDate": "2016-08-01",
+      "endDate": "2016-12-31",
+      "score": "very good",
+      "courses": ["Finnish Culture", "International Experience"]
+    },
+    {
+      "institution": "University of Marburg",
+      "location": "Marburg, Germany",
+      "url": "https://www.uni-marburg.de/en",
+      "area": "Thesis title: Lightweight Indexing on Data Streams.",
+      "studyType": "Master's in Computer Science (M. Sc.)",
+      "startDate": "2016",
+      "endDate": "2019",
+      "score": "very good",
+      "courses": ["Data Streams", "Online Query", "B<sup>+</sup>-trees"]
+    },
+    {
+      "institution": "University of Marburg",
+      "location": "Marburg, Germany",
+      "url": "https://www.uni-marburg.de/en",
+      "area": "Thesis title: Developing an Android game with an interactive water simulation.",
+      "studyType": "Bachelor's in Computer Science (B. Sc.)",
+      "startDate": "2012",
+      "endDate": "2015",
+      "score": "very good",
+      "courses": ["Water Simulation", "Android Development"]
+    },
+    {
+      "institution": "University of Marburg",
+      "location": "Marburg, Germany",
+      "url": "https://www.uni-marburg.de/en",
+      "area": "Study course change.",
+      "studyType": "Bacleor's in Physics (not completed)",
+      "startDate": "2011",
+      "endDate": "2012",
+      "score": "",
+      "courses": ["Study Orientation"]
+  },
+  {
+    "institution": "University of Marburg",
+    "location": "Marburg, Germany",
+    "url": "https://www.uni-marburg.de/en",
+    "area": "For recognition of a foreign high school certificate, e.g., secondary school graduation.",
+    "studyType": "Studienkolleg (technology course)",
+    "startDate": "2010",
+    "endDate": "2011",
+    "score": "",
+    "courses": ["Mathematics", "Computer Science", "Physics", "Chemistry"]
+  },
+  {
+    "institution": "Governmental Secondary School",
+    "location": "Medina, Saudi Arabia",
+    "url": "",
+    "area": "Scientific Branch",
+    "studyType": "Secondary School Gradutate",
+    "startDate": "2006",
+    "endDate": "2009",
+    "score": ""
+  },
+  {
+    "institution": "Governmental Intermediate School",
+    "location": "Medina, Saudi Arabia",
+    "url": "",
+    "area": "",
+    "studyType": "Intermediate School Gradutate",
+    "startDate": "2005",
+    "endDate": "2006",
+    "score": ""
+  },
+  {
+    "institution": "Governmental Intermediate School",
+    "location": "Cairo(Maadi), Egypt",
+    "url": "",
+    "area": "",
+    "studyType": "Intermediate School (to be completed)",
+    "startDate": "2003",
+    "endDate": "2005",
+    "score": ""
+  },
+  {
+    "institution": "Governmental Primary School",
+    "location": "Cairo(Maadi), Egypt",
+    "url": "",
+    "area": "",
+    "studyType": "Primary School Graduate",
+    "startDate": "1998",
+    "endDate": "2003",
+    "score": ""
+  }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Best Workshop Paper",
+      "date": "2023-03-07",
+      "awarder": "BTW Workshop NoDMC 2023",
+      "url": "https://dl.gi.de/bitstreams/48a1a9bf-f9a6-4e7d-93cf-1c0a67d6878b/download",
+      "summary": "After being awarded with the best workshop paper, we were invited to contribute an extension of our awarded paper entitled 'DNAContainer: an object-based storage architecture on DNA' to the Datenbank-Spektrum Journal. The extended paper is entilted 'An Extension of DNAContainer with a Small Memory Footprint'."
+    },
+        {
+      "title": "Editor's Choice",
+      "date": "2022-01-14",
+      "awarder": "Editor-in-Chief Cedric Notredame at NAR Genomics and Bioinformatics",
+      "url": "https://academic.oup.com/nargab/article/4/1/lqab126/6507427",
+      "summary": "Our paper was selected as the Editor's Choice, highlighting its recognition as a high-quality publication."
     }
   ],
   "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
+    
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "An Extension of DNAContainer with a Small Memory Footprint",
+      "publisher": "Datenbank-Spektrum",
+      "releaseDate": "2023-10-30",
+      "url": "https://link.springer.com/content/pdf/10.1007/s13222-023-00460-3.pdf",
+      "summary": "This publication extends and optimizes DNAContainer, a DNA data storage system already introduced in our previous publication. The paper focuses on reducing the memory footprint of DNAContainer while introducing new data operations, like deletion and overriding, on DNA."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Content-based filter queries on DNA data storage systems",
+      "publisher": "Scientific Reports",
+      "releaseDate": "2023-04-29",
+      "url": "https://www.nature.com/articles/s41598-023-34160-5.pdf",
+      "summary": "This paper presents the first method enabling content-based data retrieval from DNA storage systems. Unlike traditional PCR-based methods, which are limited to key-value lookups, this approach allows data to be searched and extracted based on its content. The method leverages DNA barcodes and microarray technologies, offering a more advanced and flexible alternative for DNA data querying."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "DNAContainer: An object-based storage architecture on DNA",
+      "publisher": "Gesellschaft für Informatik e.V.",
+      "releaseDate": "2023-03-06",
+      "url": "https://dl.gi.de/bitstreams/48a1a9bf-f9a6-4e7d-93cf-1c0a67d6878b/download",
+      "summary": "This publication introduces DNAContainer, a novel data storage system that enables users to manage data on DNA similarly to managing data on a disk. DNAContainer offers a virtual linear address space for efficient data addressing and supports organizing data into structures such as arrays and lists. Internally, it leverages optimization techniques, including error correction codes, to enhance the reliability of data stored on DNA."
+    },
+    {
+      "name": "High-scale random access on DNA storage systems",
+      "publisher": "NAR Genomics and Bioinformatics",
+      "releaseDate": "2022-01-14",
+      "url": "https://academic.oup.com/nargab/article-pdf/4/1/lqab126/58319102/lqab126.pdf",
+      "summary": "This publication proposes a novel approach to extend the address space available on DNA storage systems. Unlike traditional methods that rely on PCR and primers, this work demonstrates how DNA barcodes combined with locality-sensitive hashing (LSH) can expand the addressable space to accommodate millions of objects. This represents a significant advancement in enabling the simultaneous addressing of vast numbers of data items."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Java",
+        "Python",
+        "Rust",
+        "C#",
+        "C++",
+        "Haskell",
+        "Julia",
+        "Erlang",
+        "Kotlin",
+        "Scala",
+        "Lua",
+        "R",
+        "Prolog"
+      ]
+    },
+    {
+      "name": "Data Management",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "SQL",
+        "NoSQL",
+        "Pandas",
+        "GeoPandas"
+      ]
+    },
+    {
+      "name": "Lecture Assistance",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Linear Algebra",
+        "Analysis",
+        "Database Systems",
+        "NoSQL Databases",
+        "Geo Databases",
+        "Software Engineering",
+        "Programming Internships",
+        "Object-oriented Programming",
+        "Efficient Algorithms"
+      ]
+    },
+    {
+      "name": "Student Supervision",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Bachelor's Projects",
+        "Master's Projects",
+        "Programming Projects",
+        "Exercise Sessions"
       ]
     }
   ],
   "languages": [
     {
       "language": "German",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "Arabic",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -163,38 +335,36 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Research",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "DNA Storage",
+        "Database Systems",
+        "Parallel Computing"
+      ]
+    },
+    {
+      "name": "Scientific Engagement",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Scientific Exchange",
+        "Teaching Activities"
+      ]
+    },
+    {
+      "name": "Constructive Discussions",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Politics",
+        "Philosophy and Religion",
+        "Psychology"
       ]
     }
   ],
   "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
+    
   ],
   "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
+    
   ]
 }
