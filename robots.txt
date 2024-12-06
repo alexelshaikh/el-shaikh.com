@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://el-shaikh.com/sitemap.xml
