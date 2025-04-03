@@ -16,6 +16,16 @@
     }
   },
   "work": [
+      {
+      "name": "Imperial College London",
+      "position": "Postdoctoral Researcher",
+      "location": "London, United Kingdom",
+      "url": "https://www.imperial.ac.uk/computing/people/research",
+      "startDate": "2025-02-03",
+      "endDate": "present",
+      "summary": "I work in the group led by Prof. Dr. Thomas Heinis, where my primary focus is on researching innovative methods for using DNA storage systems.",
+      "highlights": ["Research Associate in DNA Data Storage", "Student Supervision", "Teaching Activities"]
+    },
     {
       "name": "University of Marburg",
       "position": "Research Fellow",
@@ -50,7 +60,7 @@
       "title": "Invited Speaker at 'The 1st International Conference on Data Storage in Molecular Media'",
       "date": "2023-03-23",
       "place": "University of Marburg",
-      "location": "Dresden, Germany",
+      "location": "Marburg, Germany",
       "url": "https://sites.google.com/view/btw-2023-tud/program/workshops/w4-novel-data-management-ideas-on-heterogeneous-hardware-architectures",
       "summary": "Presenting our paper entitled 'High-Scale Random Access on DNA Storage Systems'.",
       "highlights": ["Accepted Paper", "Scientific Collaboration"]
@@ -61,15 +71,15 @@
       "title": "Trends in Biotechnology",
       "date": "2023 - PRESENT",
       "if": "16.3",
-      "review_count": 1,
+      "review_count": "1",
       "url": "https://www.sciencedirect.com/journal/trends-in-biotechnology"
     },
     {
       "title": "Nature Communications",
       "date": "2023 - PRESENT",
       "if": "14.7",
-      "review_count": 4,
-      "url": "https://www.nature.com/ncomms/"
+      "review_count": "6",
+      "url": "https://www.nature.com/ncomms"
     },
     {
       "title": "Briefings in Bioinformatics",
@@ -84,6 +94,13 @@
       "if": "4.5",
       "review_count": 2,
       "url": "https://www.sciencedirect.com/journal/computational-and-structural-biotechnology-journal"
+    },
+        {
+      "title": "BMC Bioinformatics",
+      "date": "2025 - PRESENT",
+      "if": "2.9",
+      "review_count": 1,
+      "url": "https://bmcbioinformatics.biomedcentral.com"
     }
   
   ],
@@ -358,6 +375,16 @@
         "Politics",
         "Philosophy and Religion",
         "Psychology"
+      ]
+    },
+    {
+      "name": "Hobbies",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Travelling ",
+        "Board Games",
+        "Swimming",
+        "Ping Pong"
       ]
     }
   ],

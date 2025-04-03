@@ -25,7 +25,7 @@ I have organized and conducted numerous exercise sessions to support lectures fo
 
 ## Student Supervision
 
-I have also had the privilege of supervising **six bachelor’s and master’s students** in Computer Science at the University of Marburg. Guiding them through their thesis projects on **DNA data storage** has been one of the highlights of my teaching journey. It's incredibly rewarding to help students navigate challenging topics and watch them develop their ideas into successful outcomes.
+I have also had the privilege of supervising **six bachelor’s and master’s students** in Computer Science at the University of Marburg. Guiding them through their thesis projects on **DNA Data Storage** has been one of the highlights of my teaching journey. It's incredibly rewarding to help students navigate challenging topics and watch them develop their ideas into successful outcomes.
 
 Teaching is not just a role for me—it's a chance to connect, inspire, and learn alongside students.
 
